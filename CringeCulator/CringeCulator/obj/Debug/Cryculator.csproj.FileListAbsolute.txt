@@ -1,0 +1,9 @@
+C:\Users\root\source\repos\Cryculator\Cryculator\obj\Debug\Cryculator.csproj.GenerateResource.cache
+C:\Users\root\source\repos\Cryculator\Cryculator\obj\Debug\Cryculator.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\Cryculator\Cryculator\bin\Debug\CringeCulator.exe.config
+C:\Users\root\source\repos\Cryculator\Cryculator\bin\Debug\CringeCulator.exe
+C:\Users\root\source\repos\Cryculator\Cryculator\bin\Debug\CringeCulator.pdb
+C:\Users\root\source\repos\Cryculator\Cryculator\obj\Debug\CringeCulator.exe
+C:\Users\root\source\repos\Cryculator\Cryculator\obj\Debug\CringeCulator.pdb
+C:\Users\root\source\repos\Cryculator\Cryculator\obj\Debug\CringeCulator.Form1.resources
+C:\Users\root\source\repos\Cryculator\Cryculator\obj\Debug\CringeCulator.Properties.Resources.resources
