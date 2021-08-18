@@ -17,6 +17,9 @@ namespace CringeCulator
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            //*
+            https://discord.gg/pRwbE7Y8hG
+            *//
         }
     }
 }
